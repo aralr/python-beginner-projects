@@ -10,6 +10,7 @@ This repository contains my beginner Python exercises and mini projects.
 - Currency Converter
 - Ride Eligibility Checker
 - Food Ratings
+- Planet weight converter
 
 ## Skills practiced
 - Variables
