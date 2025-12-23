@@ -17,5 +17,7 @@ This repository contains my beginner Python exercises and mini projects.
 - Conditionals (if / elif / else)
 - User input
 - Basic logic
+- Conditional logic
+- input() and float()
 
 I'm currently learning Python fundamentals.
