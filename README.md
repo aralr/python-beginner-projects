@@ -9,6 +9,7 @@ This repository contains my beginner Python exercises and mini projects.
 - Sorting Hat
 - Currency Converter
 - Ride Eligibility Checker
+- Food Ratings
 
 ## Skills practiced
 - Variables
