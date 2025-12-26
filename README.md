@@ -1,8 +1,6 @@
-# python-beginner-projects
-Beginner Python exercises and mini projects
 # Python Beginner Projects
 
-This repository contains my beginner Python exercises and mini projects.
+Beginner Python exercises and mini console-based projects created while learning Python fundamentals.
 
 ## Projects
 - Magic 8 Ball
@@ -10,18 +8,21 @@ This repository contains my beginner Python exercises and mini projects.
 - Currency Converter
 - Ride Eligibility Checker
 - Food Ratings
-- Planet weight converter
+- Planet Weight Converter
 - Rock Paper Scissors
 
 ## Skills Practiced
-
-- Python basics
-- Variables
+- Python fundamentals
+- Variables and data types
 - Conditional statements (`if / elif / else`)
-- Logical operators
+- Logical operators (`and`, `or`)
 - User input handling (`input()`, `int()`)
 - Basic problem-solving logic
 - Console-based programs
+
+## Learning Status
+I'm currently learning Python fundamentals and building small projects to practice logic and core programming concepts.
+
 
 
 I'm currently learning Python fundamentals.
