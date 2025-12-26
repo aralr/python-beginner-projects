@@ -13,12 +13,15 @@ This repository contains my beginner Python exercises and mini projects.
 - Planet weight converter
 - Rock Paper Scissors
 
-## Skills practiced
+## Skills Practiced
+
+- Python basics
 - Variables
-- Conditionals (if / elif / else)
-- User input
-- Basic logic
-- Conditional logic
-- input() and float()
+- Conditional statements (`if / elif / else`)
+- Logical operators
+- User input handling (`input()`, `int()`)
+- Basic problem-solving logic
+- Console-based programs
+
 
 I'm currently learning Python fundamentals.
