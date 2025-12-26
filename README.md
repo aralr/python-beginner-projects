@@ -24,5 +24,3 @@ Beginner Python exercises and mini console-based projects created while learning
 I'm currently learning Python fundamentals and building small projects to practice logic and core programming concepts.
 
 
-
-I'm currently learning Python fundamentals.
