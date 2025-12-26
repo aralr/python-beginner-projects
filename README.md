@@ -11,6 +11,7 @@ This repository contains my beginner Python exercises and mini projects.
 - Ride Eligibility Checker
 - Food Ratings
 - Planet weight converter
+- Rock Paper Scissors
 
 ## Skills practiced
 - Variables
