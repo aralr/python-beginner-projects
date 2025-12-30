@@ -11,6 +11,7 @@ Beginner Python exercises and mini console-based projects created while learning
 - Planet Weight Converter
 - Rock Paper Scissors
 - Fortune Cookie
+- Stock Analysis
 
 ## Skills Practiced
 - Python fundamentals
