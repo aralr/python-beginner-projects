@@ -1,6 +1,7 @@
 # Python Beginner Projects
 
-Beginner Python exercises and mini console-based projects created while learning Python fundamentals.
+A collection of beginner Python exercises and mini console-based projects created while learning Python fundamentals.
+These projects help strengthen my analytical thinking and problem-solving skills, which I also apply in my QA work.
 
 ## Projects
 - Magic 8 Ball
@@ -16,9 +17,13 @@ Beginner Python exercises and mini console-based projects created while learning
 ## Skills Practiced
 - Python fundamentals
 - Variables and data types
-- Conditional statements (`if / elif / else`)
-- Logical operators (`and`, `or`)
-- User input handling (`input()`, `int()`)
+- Lists and list indexing
+- Functions and return values
+- Conditional statements (if)
+- Loops (while)
+- User input handling (input())
+- Using standard library modules (random)
+- Built-in functions (min(), max())
 - Basic problem-solving logic
 - Console-based programs
 
