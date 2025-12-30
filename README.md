@@ -10,6 +10,7 @@ Beginner Python exercises and mini console-based projects created while learning
 - Food Ratings
 - Planet Weight Converter
 - Rock Paper Scissors
+- Fortune Cookie
 
 ## Skills Practiced
 - Python fundamentals
