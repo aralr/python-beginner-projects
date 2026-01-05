@@ -13,6 +13,7 @@ These projects help strengthen my analytical thinking and problem-solving skills
 - Rock Paper Scissors
 - Fortune Cookie
 - Stock Analysis
+- Drive-thru
 
 ## Skills Practiced
 - Python fundamentals
