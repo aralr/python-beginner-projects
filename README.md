@@ -14,19 +14,28 @@ These projects help strengthen my analytical thinking and problem-solving skills
 - Fortune Cookie
 - Stock Analysis
 - Drive-thru
+- Favorite Cities
 
 ## Skills Practiced
 - Python fundamentals
 - Variables and data types
 - Lists and list indexing
-- Functions and return values
-- Conditional statements (if)
+- Dictionaries and key-value mapping
+- Functions and parameters
+- Return values
+- String formatting (f-strings)
+- Conditional statements (if / elif / else)
 - Loops (while)
-- User input handling (input())
-- Using standard library modules (random)
-- Built-in functions (min(), max())
-- Basic problem-solving logic
-- Console-based programs
+- User input handling (`input()`)
+- Error handling and validation
+- Reading and debugging tracebacks
+- Using standard library modules (`random`)
+- Built-in functions (`min()`, `max()`)
+- Basic object-oriented programming (classes, `__init__`)
+- Code refactoring and clean structure
+- Console-based applications
+- Problem-solving and logical thinking
+
 
 ## Learning Status
 I'm currently learning Python fundamentals and building small projects to practice logic and core programming concepts.
