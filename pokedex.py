@@ -8,7 +8,7 @@ class pokemon:
 
     def display_details(self):
       if not self.is_caught:
-        print ('This pokemon is not cought yet!')
+        print ('This pokemon is not caught yet!')
       print(f'Entry number: {self.entry}')
       print(f'Name: {self.name}')
       print(f'Type: {self.types}')
