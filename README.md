@@ -15,6 +15,7 @@ These projects help strengthen my analytical thinking and problem-solving skills
 - Stock Analysis
 - Drive-thru
 - Favorite Cities
+- Pokedex
 
 ## Skills Practiced
 - Python fundamentals
